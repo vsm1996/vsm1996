@@ -4,10 +4,9 @@ I build interfaces that try to figure out what you actually need instead of ship
 
 ### currently building
 
-- **Harmonia UI** — a React framework that reads cognitive load, emotional bandwidth, and time pressure, then quietly rearranges the UI around you. yes, it's as ambitious as it sounds.
-- **Renge** — a design system where every spacing/type/color decision traces back to φ and Fibonacci, because someone had to.
-- **Aria** — an accessibility formatter that fixes ARIA issues without mangling the intent behind them. gates CI, runs in ESLint and oxlint.
-- **Grove** — career intelligence built on Harmonia UI. scores opportunities by alignment and energy cost so you don't have to doomscroll job boards emotionally.
+- **Harmonia UI** ☮ — a React framework that reads cognitive load, emotional bandwidth, and time pressure, then quietly rearranges the UI around you. yes, it's as ambitious as it sounds.
+- **Renge** 🪷 — a design system where every spacing/type/color decision traces back to φ and Fibonacci, because someone had to.
+- **Aria** 🦾 — an accessibility formatter that fixes ARIA issues without mangling the intent behind them. gates CI, runs in ESLint and oxlint.
 
 ### also
 
