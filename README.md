@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Vanessa 👋
 
-<!--
-**vsm1996/vsm1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build interfaces that adapt to the people using them — design systems, accessibility tooling, and a few things just for fun.
 
-Here are some ideas to get you started:
+### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Harmonia UI** — a React framework that reads cognitive load, emotional bandwidth, and time pressure, then reshapes layout around the human on the other end.
+- **Renge** — a proportional design system built on φ and Fibonacci: spacing, typography, and color tokens grounded in math instead of guesswork.
+- **Aria** — an accessibility formatter that gates CI with meaning-preserving ARIA fixes, plus lint-tier a11y checks for ESLint and oxlint.
+- **Grove** — a career intelligence system built on Harmonia UI that scores opportunities by alignment, energy cost, and signal strength.
+
+### Elsewhere
+
+Mostly living in TypeScript and React. Portfolio: https://vsm-portfolio.vercel.app
+
+Also running synchronized anime watch parties as a side project, because some things should just be fun.
