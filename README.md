@@ -1,4 +1,4 @@
-## hey, I'm Vanessa 👋
+## hey, I'm Vanessa 👋🏾
 
 I build interfaces that try to figure out what you actually need instead of shipping the same layout to everyone.
 
