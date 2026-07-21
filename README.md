@@ -1,16 +1,16 @@
-## Hi, I'm Vanessa 👋
+## hey, I'm Vanessa 👋
 
-I build interfaces that adapt to the people using them — design systems, accessibility tooling, and a few things just for fun.
+I build interfaces that try to figure out what you actually need instead of shipping the same layout to everyone.
 
-### What I'm building
+### currently building
 
-- **Harmonia UI** — a React framework that reads cognitive load, emotional bandwidth, and time pressure, then reshapes layout around the human on the other end.
-- **Renge** — a proportional design system built on φ and Fibonacci: spacing, typography, and color tokens grounded in math instead of guesswork.
-- **Aria** — an accessibility formatter that gates CI with meaning-preserving ARIA fixes, plus lint-tier a11y checks for ESLint and oxlint.
-- **Grove** — a career intelligence system built on Harmonia UI that scores opportunities by alignment, energy cost, and signal strength.
+- **Harmonia UI** — a React framework that reads cognitive load, emotional bandwidth, and time pressure, then quietly rearranges the UI around you. yes, it's as ambitious as it sounds.
+- **Renge** — a design system where every spacing/type/color decision traces back to φ and Fibonacci, because someone had to.
+- **Aria** — an accessibility formatter that fixes ARIA issues without mangling the intent behind them. gates CI, runs in ESLint and oxlint.
+- **Grove** — career intelligence built on Harmonia UI. scores opportunities by alignment and energy cost so you don't have to doomscroll job boards emotionally.
 
-### Elsewhere
+### also
 
-Mostly living in TypeScript and React. Portfolio: https://vsm-portfolio.vercel.app
+TypeScript and React, mostly. portfolio: https://vsm-portfolio.vercel.app
 
-Also running synchronized anime watch parties as a side project, because some things should just be fun.
+Also built a tool for synced anime watch parties, because not everything has to be about optimizing your life.
